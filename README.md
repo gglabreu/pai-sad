@@ -8,8 +8,6 @@ O PAI ajuda uma pessoa a decidir qual plano de dieta, treino e cardio seguir par
 
 - Link do protótipo: https://gglabreu.github.io/pai-sad/
 - Perfis de demonstração: Marina, Rafael, Camila e Diego, escolhidos na tela de login
-- E-mail: `demo@pai.demo`
-- Senha: `demo1234`
 
 O login é apenas ilustrativo. Não há autenticação real, e qualquer entrada é aceita.
 
