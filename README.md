@@ -28,7 +28,7 @@ A fonte Roboto é carregada do Google Fonts. Sem internet, o sistema usa uma fon
 
 - **Login e cadastro**, com seletor de perfil de demonstração.
 - **Painel**, com indicadores de peso, cintura, gordura e IMC coloridos conforme o objetivo, gráficos de evolução com regressão linear e um plano sugerido, que indica se o usuário deve manter ou trocar de objetivo.
-- **Plano e simulação**, onde o usuário informa objetivo, metas de peso e cintura, idade, treinos e cardio disponíveis e alimentos por grupo. O sistema devolve cinco alternativas, do mais recomendado ao menos adequado, e para o plano escolhido mostra a dieta por refeição e a projeção semanal de 12 semanas a partir da última medida.
+- **Plano e simulação**, onde o usuário informa objetivo, metas de peso e cintura, idade, treinos, cardio e passos disponíveis e alimentos por grupo. O sistema devolve cinco alternativas, do mais recomendado ao menos adequado, e para o plano escolhido mostra a dieta por refeição e a projeção semanal de 12 semanas a partir da última medida.
 - **Histórico**, com os gráficos de evolução, os registros de medidas e um formulário de novo registro.
 - **Metodologia**, com o modelo de decisão, a tabela de parâmetros com o fundamento de cada um e as referências.
 
